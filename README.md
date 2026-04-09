@@ -1,4 +1,4 @@
-# Air Quality Prediction ML Project (Ready Version)
+# Air Quality Prediction ML Project
 
 This project includes a synthetic dataset, so it runs instantly.
 
